@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-@IBDesignable class QuestionCell: UITableViewCell{
+class QuestionCell: UITableViewCell{
     
     @IBOutlet weak var questionView: QuestionView!
     

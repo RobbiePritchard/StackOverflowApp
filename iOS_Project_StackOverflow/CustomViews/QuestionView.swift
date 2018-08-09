@@ -8,7 +8,7 @@
 
 import UIKit
 
-@IBDesignable class QuestionView: UIView {
+class QuestionView: UIView {
 
     @IBOutlet var contentView: UIView!
     
